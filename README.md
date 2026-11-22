@@ -142,7 +142,7 @@ The vertical representation shows the counter in the timeline from the distant p
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 2" />
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/2.png" alt="Fig. 2" />
       <br>
       <em>Fig. 2</em>
     </td>
@@ -162,7 +162,7 @@ $y$ is a counter for the number of rewrites for a $\Delta t = t_{\text{Planck}}$
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 3" />
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/3.png" alt="Fig. 3" />
       <br>
       <em>Fig. 3</em>
     </td>
@@ -178,7 +178,7 @@ General case of vertical-horizontal time or two-dimensional representation of wr
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 4" />
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/4.png" alt="Fig. 4" />
       <br>
       <em>Fig. 4</em>
     </td>
@@ -200,7 +200,7 @@ Now, let's examine the history of time by looking at the last four rewrites or t
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 5" />
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/5.png" alt="Fig. 5" />
       <br>
       <em>Fig. 5</em>
     </td>
@@ -224,7 +224,7 @@ Figure 5 can be represented in matrix form as follows:
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 6" />
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/6.png" alt="Fig. 6" />
       <br>
       <em>Fig. 6</em>
     </td>
@@ -245,7 +245,7 @@ The figure above can be abbreviated as follows:
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 7" />
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/7.png" alt="Fig. 7" />
       <br>
       <em>Fig. 7</em>
     </td>
@@ -259,7 +259,7 @@ In Figure 7, the counters on the left are optional, since they are implied by th
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 8" />
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/8.png" alt="Fig. 8" />
       <br>
       <em>Fig. 8</em>
     </td>
@@ -275,7 +275,7 @@ In the time matrix, the register is filled horizontally for each row, and as $t_
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 9" />
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/9.png" alt="Fig. 9" />
       <br>
       <em>Fig. 9</em>
     </td>
@@ -298,7 +298,7 @@ All previous illustrations have described the past and the present; now, the fol
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 10" />
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/10.png" alt="Fig. 10" />
       <br>
       <em>Fig. 10</em>
     </td>
@@ -336,7 +336,7 @@ For state 0:
     <td align="center">
       <ins>State 0</ins>
       <br>
-      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/20.png" alt="Fig. 11" />
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/11.png" alt="Fig. 11" />
       <br>
       <em>Fig. 11</em>
     </td>
@@ -354,7 +354,7 @@ For state 1:
     <td align="center">
       <ins>State 1</ins>
       <br>
-      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/20.png" alt="Fig. 12" />
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/12.png" alt="Fig. 12" />
       <br>
       <em>Fig. 12</em>
     </td>
@@ -372,7 +372,7 @@ For state 2:
     <td align="center">
       <ins>State 2</ins>
       <br>
-      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/20.png" alt="Fig. 13" />
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/13.png" alt="Fig. 13" />
       <br>
       <em>Fig. 13</em>
     </td>
@@ -390,7 +390,7 @@ For state 3:
     <td align="center">
       <ins>State 3</ins>
       <br>
-      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/20.png" alt="Fig. 14" />
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/14.png" alt="Fig. 14" />
       <br>
       <em>Fig. 14</em>
     </td>
@@ -416,7 +416,7 @@ Case 2 (P-RP case with two simultaneous signals at the starting point and the fi
     <td align="center">
       <ins>State 2</ins>
       <br>
-      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/20.png" alt="Fig. 15" />
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/15.png" alt="Fig. 15" />
       <br>
       <em>Fig. 15</em>
     </td>
@@ -526,7 +526,7 @@ Scenario 1:
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 16" />
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/16.png" alt="Fig. 16" />
       <br>
       <em>Fig. 16</em>
     </td>
@@ -546,7 +546,7 @@ Scenario 2:
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 17" />
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/17.png" alt="Fig. 17" />
       <br>
       <em>Fig. 17</em>
     </td>
@@ -566,7 +566,7 @@ Scenario 3:
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 18" />
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/18.png" alt="Fig. 18" />
       <br>
       <em>Fig. 18</em>
     </td>
@@ -586,7 +586,7 @@ Scenario 4:
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 19" />
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/19.png" alt="Fig. 19" />
       <br>
       <em>Fig. 19</em>
     </td>
@@ -633,7 +633,7 @@ For this Case 3, three states will be analyzed to more clearly detail the transi
     <td align="center">
       <ins>State 2</ins>
       <br>
-      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/20.png" alt="Fig. 21" />
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/21.png" alt="Fig. 21" />
       <br>
       <em>Fig. 21</em>
     </td>
@@ -658,7 +658,7 @@ Note that each resulting PRI for an arrival $t_{\text{Planck}}$ initiates a rewr
     <td align="center">
       <ins>State 3</ins>
       <br>
-      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/20.png" alt="Fig. 22" />
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/22.png" alt="Fig. 22" />
       <br>
       <em>Fig. 22</em>
     </td>
@@ -676,7 +676,7 @@ It should be noted that the number of records per row varies, so that $y \in n$ 
     <td align="center">
       <ins>State 4</ins>
       <br>
-      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/20.png" alt="Fig. 23" />
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/23.png" alt="Fig. 23" />
       <br>
       <em>Fig. 23</em>
     </td>
