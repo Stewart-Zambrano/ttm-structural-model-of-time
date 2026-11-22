@@ -155,6 +155,8 @@ $n$ is the number of discrete jumps that have shaped the universe; for this firs
 
 $$n = \frac{\text{Age of the Universe}}{\text{Planck time}} = \frac{138 \times 10^{8}\text{ years}}{10^{-43}\text{ seconds}} = \frac{138 \times 10^{8} \times (31.536 \times 10^{6}\text{ seconds})}{10^{-43}\text{ seconds}} \approx 4.35 \times 10^{60}$$
 
+(4)
+
 where $n$ is the number of rows.
 
 $y$ is a counter for the number of rewrites for a $\Delta t = t_{\text{Planck}}$. Thus, $y$ is unique for each $t_{\text{Planck}}$ and represents the maximum number of rewrites for that interval. Now let's consider the case for $y-1$:
