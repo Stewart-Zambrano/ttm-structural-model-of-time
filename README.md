@@ -125,17 +125,31 @@ The counter and accumulator factors can be observed in a vertical-horizontal mat
 
 Vertical representation:
 
-![Fig. 1](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 1" />
+      <br>
+      <em>Fig. 1</em>
+    </td>
+  </tr>
+</table>
 
-<div align="center"><em>Fig. 1</em></div>
-
+<br>
 
 The vertical representation shows the counter in the timeline from the distant past to the present. Here, the Max Counter $n \rightarrow R(c,y)$ has an accumulator $c$, where $1 \le c \le n$, so that we obtain:
 
-![Fig. 2](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/2.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 2" />
+      <br>
+      <em>Fig. 2</em>
+    </td>
+  </tr>
+</table>
 
-<div align="center"><em>Fig. 2</em></div>
-
+<br>
 
 $n$ is the number of discrete jumps that have shaped the universe; for this first part, we will refer to the Planck time as the smallest jump. By discretizing the age of the universe based on $n$, we obtain:
 
@@ -145,17 +159,33 @@ where $n$ is the number of rows.
 
 $y$ is a counter for the number of rewrites for a $\Delta t = t_{\text{Planck}}$. Thus, $y$ is unique for each $t_{\text{Planck}}$ and represents the maximum number of rewrites for that interval. Now let's consider the case for $y-1$:
 
-![Fig. 3](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/3.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 3" />
+      <br>
+      <em>Fig. 3</em>
+    </td>
+  </tr>
+</table>
 
-<div align="center"><em>Fig. 3</em></div>
+<br>
 
 Consider a Max Counter $n \rightarrow R(n,y-1)$ with an Accumulator $n$. In this figure, $(y-1)$ represents the penultimate rewrite, with the present serving as the reference point; thus, $y$ represents the present that is, the current write or the most recent rewrite.
 
 General case of vertical-horizontal time or two-dimensional representation of writing and rewriting:
 
-![Fig. 4](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/4.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 4" />
+      <br>
+      <em>Fig. 4</em>
+    </td>
+  </tr>
+</table>
 
-<div align="center"><em>Fig. 4</em></div>
+<br>
 
 The figure above depicts the entire history of time, written and rewritten since the Big Bang.
 
@@ -167,9 +197,17 @@ In the figures above, we have:
 
 Now, let's examine the history of time by looking at the last four rewrites or the last four temporal weights which include the original writing; we will also examine the structure of each of these temporal weights separately.
 
-![Fig. 5](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/5.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 5" />
+      <br>
+      <em>Fig. 5</em>
+    </td>
+  </tr>
+</table>
 
-<div align="center"><em>Fig. 5</em></div>
+<br>
 
 Figure 5 details the storage structure (cause-and-effect records) of the temporal matrix (vertical-horizontal time) from the Big Bang to the present, providing a general representation. Furthermore, the following holds true in Figure 5:
 
@@ -183,9 +221,17 @@ $$D = C + \{\text{Counter } n \rightarrow R(n,y)\} \text{ Accum } n \cup \{\text
 
 Figure 5 can be represented in matrix form as follows:
 
-![Fig. 6](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/6.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 6" />
+      <br>
+      <em>Fig. 6</em>
+    </td>
+  </tr>
+</table>
 
-<div align="center"><em>Fig. 6</em></div>
+<br>
 
 Where:
 
@@ -196,23 +242,47 @@ Where:
 
 The figure above can be abbreviated as follows:
 
-![Fig. 7](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/7.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 7" />
+      <br>
+      <em>Fig. 7</em>
+    </td>
+  </tr>
+</table>
 
-<div align="center"><em>Fig. 7</em></div>
+<br>
 
 In Figure 7, the counters on the left are optional, since they are implied by the subscripts given in the matrix elements. In the following illustration, we see a simplified representation of Figure 7:
 
-![Fig. 8](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/8.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 8" />
+      <br>
+      <em>Fig. 8</em>
+    </td>
+  </tr>
+</table>
 
-<div align="center"><em>Fig. 8</em></div>
+<br>
 
 Note in the figures above the one-to-one relationship between the counter and the row, since $\text{Cont } c \rightarrow R_c$.
 
 In the time matrix, the register is filled horizontally for each row, and as $t_{\text{Planck}}$ increases, the total vertical weight grows; that is, the time accumulator increases as the counter increases. Keep in mind that the counter is equal to the increment of the Planck time. Note that in these representations, you can observe the write operation or any rewrite interval. For the sake of clarity, the following illustration is provided:
 
-![Fig. 9](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/9.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 9" />
+      <br>
+      <em>Fig. 9</em>
+    </td>
+  </tr>
+</table>
 
-<div align="center"><em>Fig. 9</em></div>
+<br>
 
 The following holds true in the images below:
 
@@ -225,9 +295,17 @@ The following holds true in the images below:
 
 All previous illustrations have described the past and the present; now, the following illustration incorporates the future. Let's take a look:
 
-![Fig. 10](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/10.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 10" />
+      <br>
+      <em>Fig. 10</em>
+    </td>
+  </tr>
+</table>
 
-<div align="center"><em>Fig. 10</em></div>
+<br>
 
 Figure 10 shows that the subscript $m$ will be used for the future, while the subscript $n$ will be used for the present and past; likewise, the recent past allows for rewriting, while the distant past does not this will be analyzed in later chapters.
 
@@ -253,41 +331,73 @@ Let's look at the sequence of four states for any $\Delta t$ jump, with the foll
 
 For state 0:
 
-<div align="center"><ins>State 0</ins></div>
+<table>
+  <tr>
+    <td align="center">
+      <ins>State 0</ins>
+      <br>
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/20.png" alt="Fig. 11" />
+      <br>
+      <em>Fig. 11</em>
+    </td>
+  </tr>
+</table>
 
-![Fig. 11](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/11.png)
-
-<div align="center"><em>Fig. 11</em></div>
+<br>
 
 Fig. 11 shows the initial state prior to the $\Delta t$ jump that initiates the rewrite sequence. The representation shown in Figure 10 has been used for this purpose.
 
 For state 1:
 
-<div align="center"><ins>State 1</ins></div>
+<table>
+  <tr>
+    <td align="center">
+      <ins>State 1</ins>
+      <br>
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/20.png" alt="Fig. 12" />
+      <br>
+      <em>Fig. 12</em>
+    </td>
+  </tr>
+</table>
 
-![Fig. 12](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/12.png)
-
-<div align="center"><em>Fig. 12</em></div>
+<br>
 
 Fig. 12 shows the jump time $\Delta t (\Delta t_S)$, which for this example is $\Delta t_S = 5 t_{\text{Planck}}$. The black (closed) point is the starting point and indicates that it remains closed until the rewrite of $5 t_{\text{Planck}}$ reaches it; meanwhile, the white (open) point is the arrival point and indicates that this point remains open because it is immediately rewritten during the first $\Delta t = t_{\text{Planck}}$. The black box shows the region to be rewritten; it is always rewritten up to the present, and logically, the rewriting carries over into the future.
 
 For state 2:
 
-<div align="center"><ins>State 2</ins></div>
+<table>
+  <tr>
+    <td align="center">
+      <ins>State 2</ins>
+      <br>
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/20.png" alt="Fig. 13" />
+      <br>
+      <em>Fig. 13</em>
+    </td>
+  </tr>
+</table>
 
-![Fig. 13](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/13.png)
-
-<div align="center"><em>Fig. 13</em></div>
+<br>
 
 Fig. 13 shows the passage of a $\Delta t = t_{\text{Planck}}$, such that a single $\Delta t = t_{\text{Planck}}$ has been rewritten, as indicated by the orange box, where the previous entry now appears in the black $y-1$ register; In this row, all rewrites have been shifted one register or cell to the left; likewise, it can be seen that there are still four $t_{\text{Planck}}$ left to rewrite to reach the present, as shown in Fig. 13. It should be noted that the darker orange color indicates that this edge or boundary is common to both registers; therefore, it is shown in this color to indicate that the boundaries overlap into a single one.
 
 For state 3:
 
-<div align="center"><ins>State 3</ins></div>
+<table>
+  <tr>
+    <td align="center">
+      <ins>State 3</ins>
+      <br>
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/20.png" alt="Fig. 14" />
+      <br>
+      <em>Fig. 14</em>
+    </td>
+  </tr>
+</table>
 
-![Fig. 14](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/14.png)
-
-<div align="center"><em>Fig. 14</em></div>
+<br>
 
 Fig. 13 shows how the rewrite column begins to be constructed; now, in Fig. 14, the complete construction of the rewrite column for $\Delta t_S$ is shown, where its construction has been progressive for each $t_{\text{Planck}}$ such that each new rewritten cell is produced for one $t_{\text{Planck}}$. In the figure above, it can be seen that the black rectangles contain the $y-1$ state of the penultimate write, which for State 0 or State 1 represented the write information for these intervals; but now, after the rewrite, the orange rectangles define the update to the current state or the latest rewrite for $\Delta t_S$, shifting the previous $y$ values to the subsequent $y-1$ values.
 
@@ -301,11 +411,19 @@ Now let's look at several specific cases of rewriting, with the aim of gaining a
 
 Case 2 (P-RP case with two simultaneous signals at the starting point and the finishing point):
 
-<div align="center"><ins>State 2</ins></div>
+<table>
+  <tr>
+    <td align="center">
+      <ins>State 2</ins>
+      <br>
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/20.png" alt="Fig. 15" />
+      <br>
+      <em>Fig. 15</em>
+    </td>
+  </tr>
+</table>
 
-![Fig. 15](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/15.png)
-
-<div align="center"><em>Fig. 15</em></div>
+<br>
 
 Fig. 15 shows the simplified illustration, in which we can see $F = \text{Future}$, $P = \text{Present}$, and $RP = \text{Recent Past}$, such that $P\text{–}RP$ indicates the direction of the signal relative to the Future-Present-Past time arrow. As can be seen in the simplified illustration, Counter $c$, as well as $R_c$ and $S_c$, have been replaced by a counter ranging from $m$ to $1$, such that counter $\rightarrow (\text{Counter } c, R_c, S_c)$ -that is, it refers to other parameters. Likewise, an extra line has been used to illustrate the jumps in $\Delta t_S$, with $(\Delta t_{S1} = \Delta t_{S2})$. In the figure above, we can see that the two signals interact in the recent past and yield a single rewriting, just as in Case 1.
 
@@ -405,9 +523,17 @@ Simultaneous rewrite signals can only originate from the same $t_{\text{Planck}}
 
 Scenario 1:
 
-![Fig. 16](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/16.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 16" />
+      <br>
+      <em>Fig. 16</em>
+    </td>
+  </tr>
+</table>
 
-<div align="center"><em>Fig. 16</em></div>
+<br>
 
 This scenario is not possible simultaneously, since they actually represent different rewrites: first, the $PRI(S_1)$ rewrite is performed, given that its start (signal origin) lies earlier on the TTM vertical line, and then the $PRI(S_2)$ rewrite is performed, so these two rewrites do not overlap.
 
@@ -417,9 +543,17 @@ This scenario is not possible simultaneously, since they actually represent diff
 
 Scenario 2:
 
-![Fig. 17](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/17.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 17" />
+      <br>
+      <em>Fig. 17</em>
+    </td>
+  </tr>
+</table>
 
-<div align="center"><em>Fig. 17</em></div>
+<br>
 
 This scenario is also not possible simultaneously, since the two signals represent different rewrites: the $PRI(S_1)$ rewrite would occur first, given that its start (the signal's origin) is located first on the TTMs vertical line, followed by the $PRI(S_2)$ rewrite, so that they do not overlap.
 
@@ -429,9 +563,17 @@ This scenario is also not possible simultaneously, since the two signals represe
 
 Scenario 3:
 
-![Fig. 18](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/18.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 18" />
+      <br>
+      <em>Fig. 18</em>
+    </td>
+  </tr>
+</table>
 
-<div align="center"><em>Fig. 18</em></div>
+<br>
 
 This scenario, like the previous two, also does not allow for simultaneity, since the two signals represent different rewrites. First, the rewrite of $PRI(S_1)$ would occur, given that its start point is earlier on the TTMs vertical line, and then the rewrite of $PRI(S_2)$ would occur, since its start point is later on the TTM, so that they do not coincide with each other.
 
@@ -441,9 +583,17 @@ This scenario, like the previous two, also does not allow for simultaneity, sinc
 
 Scenario 4:
 
-![Fig. 19](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/19.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png" alt="Fig. 19" />
+      <br>
+      <em>Fig. 19</em>
+    </td>
+  </tr>
+</table>
 
-<div align="center"><em>Fig. 19</em></div>
+<br>
 
 Like the three previous scenarios, this one also does not allow for simultaneity, since the two signals represent different sequential rewrites within the same write operation for different $\Delta t$ values; the $PRI(S_1)$ rewrite is performed first, followed by the $PRI(S_2)$ rewrite.
 
@@ -456,11 +606,19 @@ The last five figures (Fig. 15, Fig. 16, Fig. 17, Fig. 18, Fig. 19) illustrate t
 
 Now let's look at State 3 of Case 2:
 
-<div align="center"><ins>State 3</ins></div>
+<table>
+  <tr>
+    <td align="center">
+      <ins>State 3</ins>
+      <br>
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/20.png" alt="Fig. 20" />
+      <br>
+      <em>Fig. 20</em>
+    </td>
+  </tr>
+</table>
 
-![Fig. 20](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/20.png)
-
-<div align="center"><em>Fig. 20</em></div>
+<br>
 
 As can be seen in Fig. 20, the process in State 2 has been repeated 3 more times, for a total of 4, since $\Delta t_S = 4 t_{\text{Planck}}$. Thus, Case 1 and Case 2 have a similar transition sequence, except that $\Delta t_S$ is different for each of these cases (Cases 1 and 2). On the other hand, in the illustration, $S_1$ and $S_2$ can be interchanged without affecting the analysis, since the signals are simultaneous they coincide at both the starting point and the endpoint. State 3 in Case 2 satisfies both the Interaction Hypothesis for a specific target group within the universe and the total origin condition.
 
@@ -470,11 +628,19 @@ Case 3 (P-RP case of two signals that coincide only at the start): This case par
 
 For this Case 3, three states will be analyzed to more clearly detail the transition sequence of the process, resulting in States 2, 3, and 4. Let's take a look:
 
-<div align="center"><ins>State 2</ins></div>
+<table>
+  <tr>
+    <td align="center">
+      <ins>State 2</ins>
+      <br>
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/20.png" alt="Fig. 21" />
+      <br>
+      <em>Fig. 21</em>
+    </td>
+  </tr>
+</table>
 
-![Fig. 21](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/21.png)
-
-<div align="center"><em>Fig. 21</em></div>
+<br>
 
 In State 2 of Fig. 21, it can be seen that the signals coincide at the starting point but not at the arrival point; as a result, two sequential rewrites are obtained for different $\Delta t = t_{\text{Planck}}$ note that the term "simultaneous" is used only for signals that coincide at the same $\Delta t = t_{\text{Planck}}$ at their start and at the same $\Delta t = t_{\text{Planck}}$ at their arrival; thus, if two signals satisfy the condition of total origin, they can be called "synchronous" in a temporal sense. On the other hand, if they coincide only at the same $\Delta t = t_{\text{Planck}}$ at their start, that is, they satisfy the partial origin condition and can be called "synchronous" in a non-temporal sense; and if they do not satisfy either of the two conditions, they can be called "asynchronous" in a non-temporal sense.
 
@@ -487,21 +653,37 @@ In the figure above, the rewriting begins at the $IPR(S_1)$ in the incoming $t_{
 
 Note that each resulting PRI for an arrival $t_{\text{Planck}}$ initiates a rewrite for each subsequent rewrite $t_{\text{Planck}}$ however, this PRI resulting from one or more interacting signals that begins at a given $t_{\text{Planck}}$ only initiates the rewrite, with the interaction hypothesis for the specific target group of the previous $t_{\text{Planck}}$'s rewrite being reevaluated at each subsequent $t_{\text{Planck}}$.
 
-<div align="center"><ins>State 3</ins></div>
+<table>
+  <tr>
+    <td align="center">
+      <ins>State 3</ins>
+      <br>
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/20.png" alt="Fig. 22" />
+      <br>
+      <em>Fig. 22</em>
+    </td>
+  </tr>
+</table>
 
-![Fig. 22](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/22.png)
-
-<div align="center"><em>Fig. 22</em></div>
+<br>
 
 Fig. 22 shows only the complete transitions of the $PRI(S_1)$, where $\Delta t = 2 t_{\text{Planck}}$ when the $PRI(S_1)$ reaches $(n-3)$, the interaction hypothesis arises as a consequence of the rewriting of the previous $t_{\text{Planck}}$, which stems from the rewriting initiated by the $PRI(S_1)$ and by the $PRI(S_2)$ of signal $S_2$, thereby fulfilling the condition of partial origin between these PRIs, which manifests in the resulting PRI; thus, these signals $S_1$ and $S_2$ are "timelessly synchronous."
 
 It should be noted that the number of records per row varies, so that $y \in n$ may or may not be equal to $y \in n-4$ -a condition that holds for all rows meaning that an $y$ in a given row may or may not coincide with the number of records for another $y$ belonging to a different row. In the illustration, each $y$ can represent a different number, so that for any given case, the records "1," "2," and "3," etc., shown in the different columns of the illustration do not necessarily appear in the same column, since the number of rewrites per $t_{\text{Planck}}$ may or may not match that of another row.
 
-<div align="center"><ins>State 4</ins></div>
+<table>
+  <tr>
+    <td align="center">
+      <ins>State 4</ins>
+      <br>
+      <img src="https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/20.png" alt="Fig. 23" />
+      <br>
+      <em>Fig. 23</em>
+    </td>
+  </tr>
+</table>
 
-![Fig. 23](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/23.png)
-
-<div align="center"><em>Fig. 23</em></div>
+<br>
 
 Fig. 23 shows the complete transition of the $IPR(S_1)$ and $IPR(S_2)$ rewrites. The illustration is self-explanatory; it is essentially the same explanation as for the previous state, but for a $\Delta t = 5 t_{\text{Planck}}$ However, note that a new column is created for each new rewrite signal, and the number of rewritten columns increases for the $t_{\text{Planck}}$ rewritten as the number of different allowed rewrite calls increases according to the interaction hypothesis, where the resulting rewrite IPR is updated for each $t_{\text{Planck}}$. For this example, we have only one rewrite call for the write column given by the partial origin condition and therefore only one new column added for the total rewritten $\Delta t$. Let's look at the description:
 
