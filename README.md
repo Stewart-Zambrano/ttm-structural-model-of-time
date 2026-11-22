@@ -139,11 +139,6 @@ where $n$ is the number of rows.
 
 $y$ is a counter for the number of rewrites for a $\Delta t = t_{\text{Planck}}$. Thus, $y$ is unique for each $t_{\text{Planck}}$ and represents the maximum number of rewrites for that interval. Now let's consider the case for $y-1$:
 
-Counter $n \rightarrow R(n,y-1)$
-Counter $n-1 \rightarrow R(n-1,y-1)$
-Accumulator n
-Counter $1 \rightarrow R(1,y-1)$
-
 ![Fig. 3](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/3.png)
 
 Consider a Max Counter $n \rightarrow R(n,y-1)$ with an Accumulator $n$. In this figure, $(y-1)$ represents the penultimate rewrite, with the present serving as the reference point; thus, $y$ represents the present that is, the current write or the most recent rewrite.
