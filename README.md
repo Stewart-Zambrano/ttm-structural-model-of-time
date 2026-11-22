@@ -55,9 +55,7 @@ The paper is organized as follows. In Section 2, we review the relevant backgrou
 
 In special relativity, time is woven into the fabric of spacetime as described by the Minkowski metric:
 
-$$ds^{2} = -c^{2}dt^{2} + dx^{2} + dy^{2} + dz^{2}$$
-
-(1)
+$$ds^{2} = -c^{2}dt^{2} + dx^{2} + dy^{2} + dz^{2} \tag{1}$$
 
 The relativity of simultaneity and time dilation fundamentally altered our understanding of temporal ordering [einstein1905, minkowski1908].
 
@@ -65,9 +63,7 @@ The relativity of simultaneity and time dilation fundamentally altered our under
 
 General relativity further deepens this picture by coupling the geometry of spacetime to the distribution of matter and energy through Einstein's field equations:
 
-$$G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^{4}} T_{\mu\nu}$$
-
-(2)
+$$G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^{4}} T_{\mu\nu} \tag{2}$$
 
 Here, time becomes a dynamical entity, subject to curvature and gravitational effects [einstein1916, misner1973].
 
@@ -75,9 +71,7 @@ Here, time becomes a dynamical entity, subject to curvature and gravitational ef
 
 In quantum mechanics, time occupies an asymmetric role: it is a parameter, not an observable. The Schrödinger equation governs temporal evolution:
 
-$$i\hbar\frac{\partial}{\partial t}|\Psi(t)\rangle = \hat{H}|\Psi(t)\rangle$$
-
-(3)
+$$i\hbar\frac{\partial}{\partial t}|\Psi(t)\rangle = \hat{H}|\Psi(t)\rangle \tag{3}$$
 
 This asymmetry has been a source of foundational debate [pauli1958, busch2008].
 
@@ -153,9 +147,7 @@ The vertical representation shows the counter in the timeline from the distant p
 
 $n$ is the number of discrete jumps that have shaped the universe; for this first part, we will refer to the Planck time as the smallest jump. By discretizing the age of the universe based on $n$, we obtain:
 
-$$n = \frac{\text{Age of the Universe}}{\text{Planck time}} = \frac{138 \times 10^{8}\text{ years}}{10^{-43}\text{ seconds}} = \frac{138 \times 10^{8} \times (31.536 \times 10^{6}\text{ seconds})}{10^{-43}\text{ seconds}} \approx 4.35 \times 10^{60}$$
-
-(4)
+$$n = \frac{\text{Age of the Universe}}{\text{Planck time}} = \frac{138 \times 10^{8}\text{ years}}{10^{-43}\text{ seconds}} = \frac{138 \times 10^{8} \times (31.536 \times 10^{6}\text{ seconds})}{10^{-43}\text{ seconds}} \approx 4.35 \times 10^{60} \tag{4}$$
 
 where $n$ is the number of rows.
 
@@ -213,13 +205,9 @@ Now, let's examine the history of time by looking at the last four rewrites or t
 
 Figure 5 details the storage structure (cause-and-effect records) of the temporal matrix (vertical-horizontal time) from the Big Bang to the present, providing a general representation. Furthermore, the following holds true in Figure 5:
 
-$$C = B + \{\text{Counter } n-1 \rightarrow R(n-1,y)\} \text{ Accum } n-1 \cup \{\text{Counter } n-1 \rightarrow R(n-1,y-1)\} \text{ Accum } n-1 \cup \dots \cup \{\text{Counter } n-1 \rightarrow R(n-1,1)\} \text{ Accum } n-1$$
+$$C = B + \{\text{Counter } n-1 \rightarrow R(n-1,y)\} \text{ Accum } n-1 \cup \{\text{Counter } n-1 \rightarrow R(n-1,y-1)\} \text{ Accum } n-1 \cup \dots \cup \{\text{Counter } n-1 \rightarrow R(n-1,1)\} \text{ Accum } n-1 \tag{5}$$
 
-(5)
-
-$$D = C + \{\text{Counter } n \rightarrow R(n,y)\} \text{ Accum } n \cup \{\text{Counter } n \rightarrow R(n,y-1)\} \text{ Accum } n \cup \dots \cup \{\text{Counter } n \rightarrow R(n,1)\} \text{ Accum } n$$
-
-(6)
+$$D = C + \{\text{Counter } n \rightarrow R(n,y)\} \text{ Accum } n \cup \{\text{Counter } n \rightarrow R(n,y-1)\} \text{ Accum } n \cup \dots \cup \{\text{Counter } n \rightarrow R(n,1)\} \text{ Accum } n \tag{6}$$
 
 Figure 5 can be represented in matrix form as follows:
 
@@ -438,23 +426,15 @@ The interaction hypothesis has two cases; let's examine them:
 - **Interaction Hypothesis for Inert Matter** (Conscious and unconscious entities existing in the universe do not intervene):
   The signals may or may not be independent of one another; if they are independent, they would be signals such that, when interacting in the RP, the resulting rewrite solution would satisfy the permissible rewrite information (PRI) of the signals at the point of arrival that is, at the signal's receiving $t_{\text{Planck}}$ but if the signals are not independent, they would still satisfy the permissible rewriting information (PRI) at the point of arrival. Any resulting PRI satisfies both the previous $t_{\text{Planck}}$ and the next $t_{\text{Planck}}$ so that for several signals, the following holds:
 
-$$SR = PRI(S_1 + S_2 + \dots + S_k)$$
-
-(7)
+$$SR = PRI(S_1 + S_2 + \dots + S_k) \tag{7}$$
 
   Where $S_1$ is Signal 1, $S_2$ is Signal 2, $S_k$ is signal k, and $SR$ is the resulting rewritten signal. In addition:
 
-$$SR = \bigl(PRI(PRI(S_1) + PRI(S_2) + \dots + PRI(S_k))\bigr)$$
+$$SR = \bigl(PRI(PRI(S_1) + PRI(S_2) + \dots + PRI(S_k))\bigr) \tag{8}$$
 
-(8)
+$$SR \neq \bigl(PRI(S_1) + PRI(S_2) + \dots + PRI(S_k)\bigr) \tag{9}$$
 
-$$SR \neq \bigl(PRI(S_1) + PRI(S_2) + \dots + PRI(S_k)\bigr)$$
-
-(9)
-
-$$SR = PRI(S_1 + S_2 + \dots + S_k) = \bigl(PRI(PRI(S_1) + PRI(S_2) + \dots + PRI(S_k))\bigr)$$
-
-(10)
+$$SR = PRI(S_1 + S_2 + \dots + S_k) = \bigl(PRI(PRI(S_1) + PRI(S_2) + \dots + PRI(S_k))\bigr) \tag{10}$$
 
   This is because the signals $PRI(S_1), PRI(S_2), \dots, PRI(S_k)$ may or may not share common characteristics that affect the resulting $SR$, therefore, an PRI is always required for all interacting signals so that the common and non-common characteristics that prevent rewriting are dispersed by the action threshold established at the point of arrival, where rewriting is only possible if the action decreases below the action threshold established at the point of arrival (arrival $t_{\text{Planck}}$).
 
@@ -462,9 +442,7 @@ $$SR = PRI(S_1 + S_2 + \dots + S_k) = \bigl(PRI(PRI(S_1) + PRI(S_2) + \dots + PR
 
   For inert matter to validate new records, the following condition must be met:
 
-$$(\text{Resulting action for rewriting}) < (\text{Threshold action for writing})$$
-
-(11)
+$$(\text{Resulting action for rewriting}) < (\text{Threshold action for writing}) \tag{11}$$
 
   Note that "writing" always refers to the "current writing." We will refer to this condition as the condition of inert matter.
 
@@ -477,15 +455,11 @@ $$(\text{Resulting action for rewriting}) < (\text{Threshold action for writing}
 
 In general, the following holds true:
 
-$$SR = PRI(S_1 + S_2 + \dots + S_{k_1} + ARIU)$$
-
-(12)
+$$SR = PRI(S_1 + S_2 + \dots + S_{k_1} + ARIU) \tag{12}$$
 
 where:
 
-$$ARIU = (\text{All remaining information in the universe}) = S_{k_1+1} + S_{k_1+2} + \dots + S_{k_1+k_2}$$
-
-(13)
+$$ARIU = (\text{All remaining information in the universe}) = S_{k_1+1} + S_{k_1+2} + \dots + S_{k_1+k_2} \tag{13}$$
 
 The subscript $k$ belongs to the set of natural numbers ($k \in \mathbb{N}$). The ARIU is all the information that is being rewritten for that specific $t_{\text{Planck}}$.
 
@@ -493,29 +467,19 @@ $SR$ holds for $\Delta t = t_{\text{Planck}}$, and this must occur for every $t_
 
 The following holds true generally for the entire universe:
 
-$$SR = PRI\!\left(\left[\sum_{T=1}^{n_1} \sum_{i=1}^{n_2} \text{Entity Information}_{Ti}\right]\right) = PRI\!\left(\left[\sum_{T=1}^{n_1} ST\right]\right) = PRI\!\left(\text{Matrix}[\text{Entity Information}]_{n_1 \times n_2}\right) = PRI\!\left(\text{Row}[\text{Signals}]_{n_1 \times 1}\right)$$
-
-(14)
+$$SR = PRI\!\left(\left[\sum_{T=1}^{n_1} \sum_{i=1}^{n_2} \text{Entity Information}_{Ti}\right]\right) = PRI\!\left(\left[\sum_{T=1}^{n_1} ST\right]\right) = PRI\!\left(\text{Matrix}[\text{Entity Information}]_{n_1 \times n_2}\right) = PRI\!\left(\text{Row}[\text{Signals}]_{n_1 \times 1}\right) \tag{14}$$
 
 In addition, there is also the following:
 
-$$S_1 = \sum_{i=1}^{m_1} \text{Entity Information}_{1i} = \text{Entity Information}_{11} + \text{Entity Information}_{12} + \dots + \text{Entity Information}_{1m_1} = \text{Row 1 in the } SR$$
+$$S_1 = \sum_{i=1}^{m_1} \text{Entity Information}_{1i} = \text{Entity Information}_{11} + \text{Entity Information}_{12} + \dots + \text{Entity Information}_{1m_1} = \text{Row 1 in the } SR \tag{15}$$
 
-(15)
-
-$$S_2 = \sum_{i=1}^{m_2} \text{Entity Information}_{2i} = \text{Entity Information}_{21} + \text{Entity Information}_{22} + \dots + \text{Entity Information}_{2m_2} = \text{Row 2 in the } SR$$
-
-(16)
+$$S_2 = \sum_{i=1}^{m_2} \text{Entity Information}_{2i} = \text{Entity Information}_{21} + \text{Entity Information}_{22} + \dots + \text{Entity Information}_{2m_2} = \text{Row 2 in the } SR \tag{16}$$
 
 Where:
 
-$$(n_2 \ge m_1) \wedge (n_2 \ge m_2) \wedge \dots \wedge (n_2 \ge m_{n_2})$$
+$$(n_2 \ge m_1) \wedge (n_2 \ge m_2) \wedge \dots \wedge (n_2 \ge m_{n_2}) \tag{17}$$
 
-(17)
-
-$$SR = PRI(S_1 + S_2 + ARIU) = PRI\!\left(\left[\sum_{T=1}^{n_1} ST\right]\right) = PRI\!\left(\left(\sum_{i=1}^{m_1} \text{Entity Information}_{1i}\right) \dots \left(\sum_{i=1}^{m_k} \text{Entity Information}_{ki}\right)\right)$$
-
-(18)
+$$SR = PRI(S_1 + S_2 + ARIU) = PRI\!\left(\left[\sum_{T=1}^{n_1} ST\right]\right) = PRI\!\left(\left(\sum_{i=1}^{m_1} \text{Entity Information}_{1i}\right) \dots \left(\sum_{i=1}^{m_k} \text{Entity Information}_{ki}\right)\right) \tag{18}$$
 
 Entities will be described in another chapter, but they constitute the fundamental description of wave-particles; thus, signals are a set of entities or field excitations. For the universal case at a $t_{\text{Planck}}$, the following holds: $(m_1 + m_2 + \dots + m_k) =$ (All entities of all rewriting signals in the universe at a $t_{\text{Planck}}$). I will call this condition the "partially sufficient condition," since it increases for every $\Delta t_S$ that affects the target $t_{\text{Planck}}$.
 
