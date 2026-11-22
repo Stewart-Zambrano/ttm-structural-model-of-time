@@ -147,7 +147,7 @@ The vertical representation shows the counter in the timeline from the distant p
 
 $n$ is the number of discrete jumps that have shaped the universe; for this first part, we will refer to the Planck time as the smallest jump. By discretizing the age of the universe based on $n$, we obtain:
 
-$$n = \frac{\text{Age of the Universe}}{\text{Planck time}} = \frac{138 \times 10^{8}\text{ years}}{10^{-43}\text{ seconds}} = \frac{138 \times 10^{8} \times (31.536 \times 10^{6}\text{ seconds})}{10^{-43}\text{ seconds}} \approx 4.35 \times 10^{60} \tag{4}$$
+$$n = \frac{\text{Age of the Universe}}{\text{Planck time}} = \frac{138 \times 10^{8}\text{ years}}{10^{-43}\text{ seconds}} = \frac{138 \times 10^{8} \times (31.536 \times 10^{6}\text{ seconds})}{10^{-43}\text{ seconds}} \approx 4.35 \times 10^{60} \quad (4)$$
 
 where $n$ is the number of rows.
 
