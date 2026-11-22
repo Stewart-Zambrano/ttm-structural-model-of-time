@@ -617,7 +617,7 @@ In the figure above, the rewriting begins at the $IPR(S_1)$ in the incoming $t_{
 - **Dark purple:** Refers to the common boundary between the current write by $IPR(S_1)$ and the penultimate rewrite belonging to the same row that is, the common boundary between $y$ and $y-1$ of $n-5$.
 - **Light orange:** Refers to the rewrite involving $IPR(S_1)$ and $IPR(S_2)$, where $IPR(S_2)$ waits on row $n-3$ for the arrival of the rewrite initiated by $IPR(S_1)$.
 
-Note that each resulting PRI for an arrival $t_{\text{Planck}}$ initiates a rewrite for each subsequent rewrite $t_{\text{Planck}}$ however, this PRI resulting from one or more interacting signals that begins at a given $t_{\text{Planck}}$ only initiates the rewrite, with the interaction hypothesis for the specific target group of the previous $t_{\text{Planck}}$'s rewrite being reevaluated at each subsequent $t_{\text{Planck}}$.
+Note that each resulting PRI for an arrival $t_{\text{Planck}}$ initiates a rewrite for each subsequent rewrite $t_{\text{Planck}}$; however, this PRI resulting from one or more interacting signals that begins at a given $t_{\text{Planck}}$ only initiates the rewrite, with the interaction hypothesis for the specific target group of the previous $t_{\text{Planck}}$'s rewrite being reevaluated at each subsequent $t_{\text{Planck}}$.
 
 <table>
   <tr>
@@ -651,7 +651,7 @@ It should be noted that the number of records per row varies, so that $y \in n$ 
 
 <br>
 
-Fig. 23 shows the complete transition of the $IPR(S_1)$ and $IPR(S_2)$ rewrites. The illustration is self-explanatory; it is essentially the same explanation as for the previous state, but for a $\Delta t = 5 t_{\text{Planck}}$ However, note that a new column is created for each new rewrite signal, and the number of rewritten columns increases for the $t_{\text{Planck}}$ rewritten as the number of different allowed rewrite calls increases according to the interaction hypothesis, where the resulting rewrite IPR is updated for each $t_{\text{Planck}}$. For this example, we have only one rewrite call for the write column given by the partial origin condition and therefore only one new column added for the total rewritten $\Delta t$. Let's look at the description:
+Fig. 23 shows the complete transition of the $IPR(S_1)$ and $IPR(S_2)$ rewrites. The illustration is self-explanatory; it is essentially the same explanation as for the previous state, but for a $\Delta t = 5 t_{\text{Planck}}$. However, note that a new column is created for each new rewrite signal, and the number of rewritten columns increases for the $t_{\text{Planck}}$ rewritten as the number of different allowed rewrite calls increases according to the interaction hypothesis, where the resulting rewrite IPR is updated for each $t_{\text{Planck}}$. For this example, we have only one rewrite call for the write column given by the partial origin condition and therefore only one new column added for the total rewritten $\Delta t$. Let's look at the description:
 
 - **Light purple:** Refers to the rewrite performed only by $IPR(S_1)$.
 - **Black:** Refers to the previous write that has been shifted to record $y-1$, from row $(n-5)$ through row $(n-1)$.
