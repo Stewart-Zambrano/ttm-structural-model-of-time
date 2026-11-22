@@ -127,7 +127,7 @@ Vertical representation:
 
 ![Fig. 1](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png)
 
-<div align="center"><em>Fig. 1</em></div>
+                               *Fig. 1*
 
 The vertical representation shows the counter in the timeline from the distant past to the present. Here, the Max Counter $n \rightarrow R(c,y)$ has an accumulator $c$, where $1 \le c \le n$, so that we obtain:
 
