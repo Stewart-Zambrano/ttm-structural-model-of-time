@@ -127,13 +127,15 @@ Vertical representation:
 
 ![Fig. 1](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png)
 
-                               *Fig. 1*
+<div align="center"><em>Fig. 1</em></div>
+
 
 The vertical representation shows the counter in the timeline from the distant past to the present. Here, the Max Counter $n \rightarrow R(c,y)$ has an accumulator $c$, where $1 \le c \le n$, so that we obtain:
 
 ![Fig. 2](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/2.png)
 
 <div align="center"><em>Fig. 2</em></div>
+
 
 $n$ is the number of discrete jumps that have shaped the universe; for this first part, we will refer to the Planck time as the smallest jump. By discretizing the age of the universe based on $n$, we obtain:
 
