@@ -13,7 +13,7 @@
 
 ## Abstract
 
-The nature of time remains one of the most profound open questions in both physics and philosophy. While special relativity, general relativity, and quantum mechanics each provide partial descriptions of temporal phenomena, a unified structural explanation of the fundamental nature of time remains elusive. In this work, we propose a model of time that is embedded within a timeless n-n-dimensional hypervolume that is, n dimensions of space and n dimensions of field-focusing only on the structure of the 4th and 5th spatial dimensions in this first part of the research. The model presented here is fully compatible with the established predictions of special and general relativity, as well as quantum mechanics, offering an expanded conceptual perspective on their structure within an n-dimensional spatial universe. We demonstrate that the temporal-timeless matrix (temporal-timeless hypervolume) is an approach that should be considered and evaluated in greater detail, and even refined.
+The nature of time remains one of the most profound open questions in both physics and philosophy. While special relativity, general relativity, and quantum mechanics each provide partial descriptions of temporal phenomena, a unified structural explanation of the fundamental nature of time remains elusive. In this work, we propose a model of time that is embedded within a timeless n-n-dimensional hypervolume—that is, n dimensions of space and n dimensions of field—focusing only on the structure of the 4th and 5th spatial dimensions in this first part of the research. The model presented here is fully compatible with the established predictions of special and general relativity, as well as quantum mechanics, offering an expanded conceptual perspective on their structure within an n-dimensional spatial universe. We demonstrate that the temporal-timeless matrix (temporal-timeless hypervolume) is an approach that should be considered and evaluated in greater detail, and even refined.
 
 **Keywords:** philosophy of time, structure of time, temporal ontology, special relativity, general relativity, quantum mechanics, philosophy of physics
 
@@ -165,7 +165,7 @@ $y$ is a counter for the number of rewrites for a $\Delta t = t_{\text{Planck}}$
 
 <br>
 
-Consider a Max Counter $n \rightarrow R(n,y-1)$ with an Accumulator $n$. In this figure, $(y-1)$ represents the penultimate rewrite, with the present serving as the reference point; thus, $y$ represents the present that is, the current write or the most recent rewrite.
+Consider a Max Counter $n \rightarrow R(n,y-1)$ with an Accumulator $n$. In this figure, $(y-1)$ represents the penultimate rewrite, with the present serving as the reference point; thus, $y$ represents the present—that is, the current write or the most recent rewrite.
 
 General case of vertical-horizontal time or two-dimensional representation of writing and rewriting:
 
@@ -189,7 +189,7 @@ In the figures above, we have:
 - $\text{Max}$: Maximum.
 - $\text{Accum } n$: in general, $\text{Accum } c = \sum_{i=1}^{c} i$ holds, where $1 \le c \le n$; $\text{Accum}$ is the temporal weight that defines the location of each row marking the history of the universe. The ellipsis indicates the continuity of the pattern.
 
-Now, let's examine the history of time by looking at the last four rewrites or the last four temporal weights which include the original writing; we will also examine the structure of each of these temporal weights separately.
+Now, let's examine the history of time by looking at the last four rewrites or the last four temporal weights, which include the original writing; we will also examine the structure of each of these temporal weights separately.
 
 <table>
   <tr>
@@ -225,8 +225,8 @@ Figure 5 can be represented in matrix form as follows:
 
 Where:
 
-- $R_c$: Row $c$
-- $S_c = \text{Sum } c = \text{Accum } c$; However, in the case of $S_1$, $S_1 = \text{Accum } 1 = \text{Counter } 1$ by default, since by definition $\text{Accum } 1 = \sum_{i=1}^{1} i = 1$
+- $R_c$: Row $c$.
+- $S_c = \text{Sum } c = \text{Accum } c$; however, in the case of $S_1$, $S_1 = \text{Accum } 1 = \text{Counter } 1$ by default, since by definition $\text{Accum } 1 = \sum_{i=1}^{1} i = 1$.
 - $UW =$ Universe write.
 - $UR =$ Universe rewrite.
 
@@ -276,12 +276,12 @@ In the time matrix, the register is filled horizontally for each row, and as $t_
 
 The following holds true in the images below:
 
-- Write $y$ = rewrite $y$ (Last rewrite if and only if the present is being rewritten in those counts)
-- Rewrite $y-1$ = Penultimate rewrite
+- Write $y$ = rewrite $y$ (Last rewrite if and only if the present is being rewritten in those counts).
+- Rewrite $y-1$ = Penultimate rewrite.
 - And so on until:
-  - Rewrite $3$ = 3rd rewrite
-  - Rewrite $2$ = 2nd rewrite
-  - Rewrite $1$ = 1st rewrite
+  - Rewrite $3$ = 3rd rewrite.
+  - Rewrite $2$ = 2nd rewrite.
+  - Rewrite $1$ = 1st rewrite.
 
 All previous illustrations have described the past and the present; now, the following illustration incorporates the future. Let's take a look:
 
@@ -297,7 +297,7 @@ All previous illustrations have described the past and the present; now, the fol
 
 <br>
 
-Figure 10 shows that the subscript $m$ will be used for the future, while the subscript $n$ will be used for the present and past; likewise, the recent past allows for rewriting, while the distant past does not this will be analyzed in later chapters.
+Figure 10 shows that the subscript $m$ will be used for the future, while the subscript $n$ will be used for the present and past; likewise, the recent past allows for rewriting, while the distant past does not. This will be analyzed in later chapters.
 
 In the TTM, as a new rewrite occurs, all entries in the same row shift one position to the left, so that the most recent rewrite or write (current write or current rewrite) is placed in the $y$ column of that row.
 
@@ -306,7 +306,7 @@ The nature of the temporal matrix defines it as timeless; this is why it is refe
 The TTM has five distinguishable characteristics:
 
 - **Nature of IT:** The TTM is, by definition, both temporal and timeless. The timeless nature contains the temporal nature within itself.
-- **EC Storage:** The TTM is a structure for recording information about space ($E$) and fields ($C$) that manifest in our universe. This characteristic is made possible by the very nature of the EC pair, since they record information through the TTM as if they were doing so within themselves from a condensed perspective much like layers of an onion with a number of these "layers" encompassing the history of the universe for each space-field structure that defines the information within existence.
+- **EC Storage:** The TTM is a structure for recording information about space ($E$) and fields ($C$) that manifest in our universe. This characteristic is made possible by the very nature of the EC pair, since they record information through the TTM as if they were doing so within themselves from a condensed perspective—much like layers of an onion—with a number of these "layers" encompassing the history of the universe for each space-field structure that defines the information within existence.
 - **C-Dynamism:** The interaction of space and fields (including inert and non-inert matter) defines coherence and decoherence in the universe, which is recorded in the TTM according to the dialectic of information.
 - **Information Flow:** The TTM allows for the exchange of information along past-present-future and future-present-past lines, subject to the constraints of the TTM.
 - **Universality of Delocalization:** The nature of existence that gives rise to the TTM through the delocalization of information. This topic will be analyzed in later chapters.
@@ -371,7 +371,7 @@ For state 2:
 
 <br>
 
-Fig. 13 shows the passage of a $\Delta t = t_{\text{Planck}}$, such that a single $\Delta t = t_{\text{Planck}}$ has been rewritten, as indicated by the orange box, where the previous entry now appears in the black $y-1$ register; In this row, all rewrites have been shifted one register or cell to the left; likewise, it can be seen that there are still four $t_{\text{Planck}}$ left to rewrite to reach the present, as shown in Fig. 13. It should be noted that the darker orange color indicates that this edge or boundary is common to both registers; therefore, it is shown in this color to indicate that the boundaries overlap into a single one.
+Fig. 13 shows the passage of a $\Delta t = t_{\text{Planck}}$, such that a single $\Delta t = t_{\text{Planck}}$ has been rewritten, as indicated by the orange box, where the previous entry now appears in the black $y-1$ register. In this row, all rewrites have been shifted one register or cell to the left; likewise, it can be seen that there are still four $t_{\text{Planck}}$ left to rewrite to reach the present, as shown in Fig. 13. It should be noted that the darker orange color indicates that this edge or boundary is common to both registers; therefore, it is shown in this color to indicate that the boundaries overlap into a single one.
 
 For state 3:
 
@@ -389,15 +389,15 @@ For state 3:
 
 <br>
 
-Fig. 13 shows how the rewrite column begins to be constructed; now, in Fig. 14, the complete construction of the rewrite column for $\Delta t_S$ is shown, where its construction has been progressive for each $t_{\text{Planck}}$ such that each new rewritten cell is produced for one $t_{\text{Planck}}$. In the figure above, it can be seen that the black rectangles contain the $y-1$ state of the penultimate write, which for State 0 or State 1 represented the write information for these intervals; but now, after the rewrite, the orange rectangles define the update to the current state or the latest rewrite for $\Delta t_S$, shifting the previous $y$ values to the subsequent $y-1$ values.
+Fig. 13 shows how the rewrite column begins to be constructed; now, in Fig. 14, the complete construction of the rewrite column for $\Delta t_S$ is shown, where its construction has been progressive for each $t_{\text{Planck}}$ such that each new rewritten cell is produced for one $t_{\text{Planck}}$. In the figure above, it can be seen that the black rectangles contain the $y-1$ state of the penultimate write, which for State 0 or State 1 represented the write information for these intervals; however, now, after the rewrite, the orange rectangles define the update to the current state or the latest rewrite for $\Delta t_S$, shifting the previous $y$ values to the subsequent $y-1$ values.
 
-Note that in the representations shown, each cell reflects the complete state of the universe for a $\Delta t = t_{\text{Planck}}$ however, the TTM can be segmented for a specific target group within the universe, for example:
+Note that in the representations shown, each cell reflects the complete state of the universe for a $\Delta t = t_{\text{Planck}}$; however, the TTM can be segmented for a specific target group within the universe, for example:
 
 - A specific region.
-- Number of field and/or space particles, since there are actually two TTM that interact with each other one for space and one for fields. These two TTM will be analyzed in later chapters.
+- Number of field and/or space particles, since there are actually two TTM that interact with each other—one for space and one for fields. These two TTM will be analyzed in later chapters.
 - A single field or space particle.
 
-Now let's look at several specific cases of rewriting, with the aim of gaining a clearer understanding of the nature of the TTM. To do this, I will consider only states 2 and 3 of the different cases, since the evolution of the phenomenon is shown only in these two states through the construction of the rewriting columns; however, it should be noted that between states 2 and 3-which mark the beginning and end of the construction of the rewriting columns-there are always (# remaining states $\Delta t_S - 2$), where "2" refers to states 2 and 3. To maintain a sequence from Fig. 11 through Fig. 14, we would have Case 1 (the Present-Recent_Past or P-RP case of a rewrite signal). For the following cases, the illustration will be simplified, showing only the necessary parts of UR and UW; furthermore, I will use only the future, present, and recent past, since the distant past remains unchanged for all cases; however, I will use a single illustration for all cases, even though I could use more restricted illustrations, since for cases where the future does not interact, I could omit it (the future) from the illustration; likewise, in cases where the recent past does not interact, I could omit it (the recent past) from the illustration. A single restricted illustration will be used (this being the general case of a restricted illustration) with the intention of showing all the cells (part of the matrix) where all possible rewriting cases occur; on the other hand, it should be noted that the illustrations for Case 1 represent the complete (unrestricted) illustration, and it should also be noted that all illustrations from Fig. 11 through Fig. 14 are based on Fig. 10, which I have chosen as the illustration model due to its compact presentation of information and ease of illustration; however, for the following cases, I will make an adjustment to simplify it further, using Fig. 8 as a starting point.
+Now let's look at several specific cases of rewriting, with the aim of gaining a clearer understanding of the nature of the TTM. To do this, I will consider only states 2 and 3 of the different cases, since the evolution of the phenomenon is shown only in these two states through the construction of the rewriting columns; however, it should be noted that between states 2 and 3—which mark the beginning and end of the construction of the rewriting columns—there are always (# remaining states $\Delta t_S - 2$), where "2" refers to states 2 and 3. To maintain a sequence from Fig. 11 through Fig. 14, we would have Case 1 (the Present-Recent_Past or P-RP case of a rewrite signal). For the following cases, the illustration will be simplified, showing only the necessary parts of UR and UW; furthermore, I will use only the future, present, and recent past, since the distant past remains unchanged for all cases. However, I will use a single illustration for all cases, even though I could use more restricted illustrations, since for cases where the future does not interact, I could omit it (the future) from the illustration; likewise, in cases where the recent past does not interact, I could omit it (the recent past) from the illustration. A single restricted illustration will be used (this being the general case of a restricted illustration) with the intention of showing all the cells (part of the matrix) where all possible rewriting cases occur; on the other hand, it should be noted that the illustrations for Case 1 represent the complete (unrestricted) illustration, and it should also be noted that all illustrations from Fig. 11 through Fig. 14 are based on Fig. 10, which I have chosen as the illustration model due to its compact presentation of information and ease of illustration. However, for the following cases, I will make an adjustment to simplify it further, using Fig. 8 as a starting point.
 
 Case 2 (P-RP case with two simultaneous signals at the starting point and the finishing point):
 
@@ -415,7 +415,7 @@ Case 2 (P-RP case with two simultaneous signals at the starting point and the fi
 
 <br>
 
-Fig. 15 shows the simplified illustration, in which we can see $F = \text{Future}$, $P = \text{Present}$, and $RP = \text{Recent Past}$, such that $P\text{–}RP$ indicates the direction of the signal relative to the Future-Present-Past time arrow. As can be seen in the simplified illustration, Counter $c$, as well as $R_c$ and $S_c$, have been replaced by a counter ranging from $m$ to $1$, such that counter $\rightarrow (\text{Counter } c, R_c, S_c)$ -that is, it refers to other parameters. Likewise, an extra line has been used to illustrate the jumps in $\Delta t_S$, with $(\Delta t_{S1} = \Delta t_{S2})$. In the figure above, we can see that the two signals interact in the recent past and yield a single rewriting, just as in Case 1.
+Fig. 15 shows the simplified illustration, in which we can see $F = \text{Future}$, $P = \text{Present}$, and $RP = \text{Recent Past}$, such that $P\text{–}RP$ indicates the direction of the signal relative to the Future-Present-Past time arrow. As can be seen in the simplified illustration, Counter $c$, as well as $R_c$ and $S_c$, have been replaced by a counter ranging from $m$ to $1$, such that counter $\rightarrow (\text{Counter } c, R_c, S_c)$—that is, it refers to other parameters. Likewise, an extra line has been used to illustrate the jumps in $\Delta t_S$, with $(\Delta t_{S1} = \Delta t_{S2})$. In the figure above, we can see that the two signals interact in the recent past and yield a single rewriting, just as in Case 1.
 
 Before continuing with state 3 of Case 2, let's examine the following two hypotheses that apply to these cases where rewrites occur:
 
@@ -424,7 +424,7 @@ Interaction Hypothesis for a Specific Target Group Within the Universe:
 The interaction hypothesis has two cases; let's examine them:
 
 - **Interaction Hypothesis for Inert Matter** (Conscious and unconscious entities existing in the universe do not intervene):
-  The signals may or may not be independent of one another; if they are independent, they would be signals such that, when interacting in the RP, the resulting rewrite solution would satisfy the permissible rewrite information (PRI) of the signals at the point of arrival that is, at the signal's receiving $t_{\text{Planck}}$ but if the signals are not independent, they would still satisfy the permissible rewriting information (PRI) at the point of arrival. Any resulting PRI satisfies both the previous $t_{\text{Planck}}$ and the next $t_{\text{Planck}}$ so that for several signals, the following holds:
+  The signals may or may not be independent of one another; if they are independent, they would be signals such that, when interacting in the RP, the resulting rewrite solution would satisfy the permissible rewrite information (PRI) of the signals at the point of arrival—that is, at the signal's receiving $t_{\text{Planck}}$—but if the signals are not independent, they would still satisfy the permissible rewriting information (PRI) at the point of arrival. Any resulting PRI satisfies both the previous $t_{\text{Planck}}$ and the next $t_{\text{Planck}}$ so that for several signals, the following holds:
 
 $$SR = PRI(S_1 + S_2 + \dots + S_k) \quad (7)$$
 
@@ -436,7 +436,7 @@ $$SR \neq \bigl(PRI(S_1) + PRI(S_2) + \dots + PRI(S_k)\bigr) \quad (9)$$
 
 $$SR = PRI(S_1 + S_2 + \dots + S_k) = \bigl(PRI(PRI(S_1) + PRI(S_2) + \dots + PRI(S_k))\bigr) \quad (10)$$
 
-  This is because the signals $PRI(S_1), PRI(S_2), \dots, PRI(S_k)$ may or may not share common characteristics that affect the resulting $SR$, therefore, an PRI is always required for all interacting signals so that the common and non-common characteristics that prevent rewriting are dispersed by the action threshold established at the point of arrival, where rewriting is only possible if the action decreases below the action threshold established at the point of arrival (arrival $t_{\text{Planck}}$).
+  This is because the signals $PRI(S_1), PRI(S_2), \dots, PRI(S_k)$ may or may not share common characteristics that affect the resulting $SR$; therefore, an PRI is always required for all interacting signals so that the common and non-common characteristics that prevent rewriting are dispersed by the action threshold established at the point of arrival, where rewriting is only possible if the action decreases below the action threshold established at the point of arrival (arrival $t_{\text{Planck}}$).
 
   Keep in mind that any of the PRIs may or may not be zero, including the resulting PRI, since signal information that does not satisfy the PRI simply does not manifest itself; this is because it contributes to the action required to exceed the current action threshold, so all possibilities are checked, and the result is the one with the least action. Likewise, any rewrite via the resulting PRI preserves the cause-and-effect relationship in each $t_{\text{Planck}}$ of the record, allowing for continuity of information between the previous $t_{\text{Planck}}$ and the next $t_{\text{Planck}}$.
 
@@ -447,9 +447,9 @@ $$(\text{Resulting action for rewriting}) < (\text{Threshold action for writing}
   Note that "writing" always refers to the "current writing." We will refer to this condition as the condition of inert matter.
 
 - **Interaction Hypothesis for Non-Inert Matter** (involving the consciousnesses and unconsciousnesses that exist in the universe):
-  The interventions of consciousnesses and unconsciousnesses in the rewriting for specific groups that is, for a given volume of spacetime depend on the acceptance of the rewriting by each of the interacting consciousnesses and unconsciousnesses within the specific target group. The definition of consciousness-unconsciousness for this study refers to any reorganization of matter that may or may not violate the condition of inert matter, depending on its interaction.
+  The interventions of consciousnesses and unconsciousnesses in the rewriting for specific groups—that is, for a given volume of spacetime—depend on the acceptance of the rewriting by each of the interacting consciousnesses and unconsciousnesses within the specific target group. The definition of consciousness-unconsciousness for this study refers to any reorganization of matter that may or may not violate the condition of inert matter, depending on its interaction.
 
-  This hypothesis and therefore these cases apply only to the rewriting process, in which the initial writing may involve actions that can set any threshold value, but seeks the minimum possible action based on the physical conditions of the spacetime environment itself.
+  This hypothesis, and therefore these cases, apply only to the rewriting process, in which the initial writing may involve actions that can set any threshold value, but seeks the minimum possible action based on the physical conditions of the spacetime environment itself.
 
 **Nonlocality Hypothesis:** Communication is nonlocal in nature. It should be noted that signals travel from the starting point to the end point outside of local spacetime (three spatial dimensions plus time) through hyperspace to record information in the TTM. This hypothesis will be addressed in later chapters.
 
@@ -483,9 +483,9 @@ $$SR = PRI(S_1 + S_2 + ARIU) = PRI\!\left(\left[\sum_{T=1}^{n_1} ST\right]\right
 
 Entities will be described in another chapter, but they constitute the fundamental description of wave-particles; thus, signals are a set of entities or field excitations. For the universal case at a $t_{\text{Planck}}$, the following holds: $(m_1 + m_2 + \dots + m_k) =$ (All entities of all rewriting signals in the universe at a $t_{\text{Planck}}$). I will call this condition the "partially sufficient condition," since it increases for every $\Delta t_S$ that affects the target $t_{\text{Planck}}$.
 
-With regard to Case 1 (the Present-Recent_Past or P-RP case of a rewriting signal), we would have: $SR = PRI(S_1)$ however, if we could incorporate the rest of the signals in the universe, we could express Case 1 as follows: $SR = PRI(S_1 + ARIU)$; clearly, all previous definitions would be satisfied in this formula.
+With regard to Case 1 (the Present-Recent_Past or P-RP case of a rewriting signal), we would have: $SR = PRI(S_1)$; however, if we could incorporate the rest of the signals in the universe, we could express Case 1 as follows: $SR = PRI(S_1 + ARIU)$. Clearly, all previous definitions would be satisfied in this formula.
 
-Simultaneous rewrite signals can only originate from the same $t_{\text{Planck}}$ that is, from the present time so only the case shown in Fig. 15 is permitted. Now, let's examine the following scenarios in Fig. 16, Fig. 17, Fig. 18, and Fig. 19, which are not permitted to occur simultaneously.
+Simultaneous rewrite signals can only originate from the same $t_{\text{Planck}}$—that is, from the present time—so only the case shown in Fig. 15 is permitted. Now, let's examine the following scenarios in Fig. 16, Fig. 17, Fig. 18, and Fig. 19, which are not permitted to occur simultaneously.
 
 Scenario 1:
 
@@ -521,7 +521,7 @@ Scenario 2:
 
 <br>
 
-This scenario is also not possible simultaneously, since the two signals represent different rewrites: the $PRI(S_1)$ rewrite would occur first, given that its start (the signal's origin) is located first on the TTMs vertical line, followed by the $PRI(S_2)$ rewrite, so that they do not overlap.
+This scenario is also not possible simultaneously, since the two signals represent different rewrites: the $PRI(S_1)$ rewrite would occur first, given that its start (the signal's origin) is located first on the TTM's vertical line, followed by the $PRI(S_2)$ rewrite, so that they do not overlap.
 
 - **Yellow:** Refers to the rewrite performed only by $PRI(S_1)$.
 - **Blue:** Refers to the rewrite performed only by $PRI(S_2)$.
@@ -541,7 +541,7 @@ Scenario 3:
 
 <br>
 
-This scenario, like the previous two, also does not allow for simultaneity, since the two signals represent different rewrites. First, the rewrite of $PRI(S_1)$ would occur, given that its start point is earlier on the TTMs vertical line, and then the rewrite of $PRI(S_2)$ would occur, since its start point is later on the TTM, so that they do not coincide with each other.
+This scenario, like the previous two, also does not allow for simultaneity, since the two signals represent different rewrites. First, the rewrite of $PRI(S_1)$ would occur, given that its start point is earlier on the TTM's vertical line, and then the rewrite of $PRI(S_2)$ would occur, since its start point is later on the TTM, so that they do not coincide with each other.
 
 - **Blue:** Refers to the rewrite performed only by $PRI(S_2)$; these are the time intervals ($t_{\text{Planck}}$'s) during which signal $S_1$ does not intervene for a possible rewrite.
 - **Yellow:** Refers to the start and end of the rewrite performed only by $PRI(S_1)$.
@@ -564,7 +564,7 @@ Scenario 4:
 Like the three previous scenarios, this one also does not allow for simultaneity, since the two signals represent different sequential rewrites within the same write operation for different $\Delta t$ values; the $PRI(S_1)$ rewrite is performed first, followed by the $PRI(S_2)$ rewrite.
 
 - **Blue:** Refers to the rewrite performed only by $PRI(S_2)$, as shown in Fig. 19.
-- **Yellow:** Refers to the rewrite performed only by $PRI(S_1)$ as shown in Fig. 19.
+- **Yellow:** Refers to the rewrite performed only by $PRI(S_1)$, as shown in Fig. 19.
 
 The last five figures (Fig. 15, Fig. 16, Fig. 17, Fig. 18, Fig. 19) illustrate the origin condition.
 
@@ -586,7 +586,7 @@ Now let's look at State 3 of Case 2:
 
 <br>
 
-As can be seen in Fig. 20, the process in State 2 has been repeated 3 more times, for a total of 4, since $\Delta t_S = 4 t_{\text{Planck}}$. Thus, Case 1 and Case 2 have a similar transition sequence, except that $\Delta t_S$ is different for each of these cases (Cases 1 and 2). On the other hand, in the illustration, $S_1$ and $S_2$ can be interchanged without affecting the analysis, since the signals are simultaneous they coincide at both the starting point and the endpoint. State 3 in Case 2 satisfies both the Interaction Hypothesis for a specific target group within the universe and the total origin condition.
+As can be seen in Fig. 20, the process in State 2 has been repeated 3 more times, for a total of 4, since $\Delta t_S = 4 t_{\text{Planck}}$. Thus, Case 1 and Case 2 have a similar transition sequence, except that $\Delta t_S$ is different for each of these cases (Cases 1 and 2). On the other hand, in the illustration, $S_1$ and $S_2$ can be interchanged without affecting the analysis, since the signals are simultaneous—they coincide at both the starting point and the endpoint. State 3 in Case 2 satisfies both the Interaction Hypothesis for a specific target group within the universe and the total origin condition.
 
 Case 3 (P-RP case of two signals that coincide only at the start): This case partially satisfies the total origin condition, and the partial origin condition is defined for this specific case.
 
@@ -608,13 +608,13 @@ For this Case 3, three states will be analyzed to more clearly detail the transi
 
 <br>
 
-In State 2 of Fig. 21, it can be seen that the signals coincide at the starting point but not at the arrival point; as a result, two sequential rewrites are obtained for different $\Delta t = t_{\text{Planck}}$ note that the term "simultaneous" is used only for signals that coincide at the same $\Delta t = t_{\text{Planck}}$ at their start and at the same $\Delta t = t_{\text{Planck}}$ at their arrival; thus, if two signals satisfy the condition of total origin, they can be called "synchronous" in a temporal sense. On the other hand, if they coincide only at the same $\Delta t = t_{\text{Planck}}$ at their start, that is, they satisfy the partial origin condition and can be called "synchronous" in a non-temporal sense; and if they do not satisfy either of the two conditions, they can be called "asynchronous" in a non-temporal sense.
+In State 2 of Fig. 21, it can be seen that the signals coincide at the starting point but not at the arrival point; as a result, two sequential rewrites are obtained for different $\Delta t = t_{\text{Planck}}$. Note that the term "simultaneous" is used only for signals that coincide at the same $\Delta t = t_{\text{Planck}}$ at their start and at the same $\Delta t = t_{\text{Planck}}$ at their arrival; thus, if two signals satisfy the condition of total origin, they can be called "synchronous" in a temporal sense. On the other hand, if they coincide only at the same $\Delta t = t_{\text{Planck}}$ at their start—that is, they satisfy the partial origin condition—they can be called "synchronous" in a non-temporal sense; and if they do not satisfy either of the two conditions, they can be called "asynchronous" in a non-temporal sense.
 
-In the figure above, the rewriting begins at the $IPR(S_1)$ in the incoming $t_{\text{Planck}}$ corresponding to row $n-5$ The figure shows the first rewriting for that row, where the following holds:
+In the figure above, the rewriting begins at the $IPR(S_1)$ in the incoming $t_{\text{Planck}}$ corresponding to row $n-5$. The figure shows the first rewriting for that row, where the following holds:
 
 - **Light purple:** Refers to the rewriting performed only by the $IPR(S_1)$.
 - **Black:** Refers to the previous write that has been moved to record $y-1$ of row $n-5$.
-- **Dark purple:** Refers to the common boundary between the current write by $IPR(S_1)$ and the penultimate rewrite belonging to the same row that is, the common boundary between $y$ and $y-1$ of $n-5$.
+- **Dark purple:** Refers to the common boundary between the current write by $IPR(S_1)$ and the penultimate rewrite belonging to the same row—that is, the common boundary between $y$ and $y-1$ of $n-5$.
 - **Light orange:** Refers to the rewrite involving $IPR(S_1)$ and $IPR(S_2)$, where $IPR(S_2)$ waits on row $n-3$ for the arrival of the rewrite initiated by $IPR(S_1)$.
 
 Note that each resulting PRI for an arrival $t_{\text{Planck}}$ initiates a rewrite for each subsequent rewrite $t_{\text{Planck}}$; however, this PRI resulting from one or more interacting signals that begins at a given $t_{\text{Planck}}$ only initiates the rewrite, with the interaction hypothesis for the specific target group of the previous $t_{\text{Planck}}$'s rewrite being reevaluated at each subsequent $t_{\text{Planck}}$.
@@ -633,9 +633,9 @@ Note that each resulting PRI for an arrival $t_{\text{Planck}}$ initiates a rewr
 
 <br>
 
-Fig. 22 shows only the complete transitions of the $PRI(S_1)$, where $\Delta t = 2 t_{\text{Planck}}$ when the $PRI(S_1)$ reaches $(n-3)$, the interaction hypothesis arises as a consequence of the rewriting of the previous $t_{\text{Planck}}$, which stems from the rewriting initiated by the $PRI(S_1)$ and by the $PRI(S_2)$ of signal $S_2$, thereby fulfilling the condition of partial origin between these PRIs, which manifests in the resulting PRI; thus, these signals $S_1$ and $S_2$ are "timelessly synchronous."
+Fig. 22 shows only the complete transitions of the $PRI(S_1)$, where $\Delta t = 2 t_{\text{Planck}}$. When the $PRI(S_1)$ reaches $(n-3)$, the interaction hypothesis arises as a consequence of the rewriting of the previous $t_{\text{Planck}}$, which stems from the rewriting initiated by the $PRI(S_1)$ and by the $PRI(S_2)$ of signal $S_2$, thereby fulfilling the condition of partial origin between these PRIs, which manifests in the resulting PRI; thus, these signals $S_1$ and $S_2$ are "timelessly synchronous."
 
-It should be noted that the number of records per row varies, so that $y \in n$ may or may not be equal to $y \in n-4$ -a condition that holds for all rows meaning that an $y$ in a given row may or may not coincide with the number of records for another $y$ belonging to a different row. In the illustration, each $y$ can represent a different number, so that for any given case, the records "1," "2," and "3," etc., shown in the different columns of the illustration do not necessarily appear in the same column, since the number of rewrites per $t_{\text{Planck}}$ may or may not match that of another row.
+It should be noted that the number of records per row varies, so that $y \in n$ may or may not be equal to $y \in n-4$—a condition that holds for all rows—meaning that a $y$ in a given row may or may not coincide with the number of records for another $y$ belonging to a different row. In the illustration, each $y$ can represent a different number, so that for any given case, the records "1," "2," and "3," etc., shown in the different columns of the illustration do not necessarily appear in the same column, since the number of rewrites per $t_{\text{Planck}}$ may or may not match that of another row.
 
 <table>
   <tr>
@@ -655,9 +655,9 @@ Fig. 23 shows the complete transition of the $IPR(S_1)$ and $IPR(S_2)$ rewrites.
 
 - **Light purple:** Refers to the rewrite performed only by $IPR(S_1)$.
 - **Black:** Refers to the previous write that has been shifted to record $y-1$, from row $(n-5)$ through row $(n-1)$.
-- **Dark purple:** Refers to the common boundary between the current write by $IPR(S_1)$ and the penultimate rewrite, from line $(n-5)$ through row $(n-1)$ -that is, the common boundary between $y$ and $y-1$ for these rows.
+- **Dark purple:** Refers to the common boundary between the current write by $IPR(S_1)$ and the penultimate rewrite, from line $(n-5)$ through row $(n-1)$—that is, the common boundary between $y$ and $y-1$ for these rows.
 - **Light brown:** Refers to the rewrite involving $IPR(S_1)$ and $IPR(S_2)$ that satisfies the partial origin condition.
-- **Dark brown:** Refers to the common boundary between the current writing defined by $IPR(S_1 + S_2)$ and the common boundary between $y$ and $y-1$ from row $(n-3)$ up to and including row $(n-1)$
+- **Dark brown:** Refers to the common boundary between the current writing defined by $IPR(S_1 + S_2)$ and the common boundary between $y$ and $y-1$ from row $(n-3)$ up to and including row $(n-1)$.
 
 In the figures above, a record refers to a specific target group (GOE) or to the universe itself, consisting of all records and all GOEs that would satisfy the previously argued conditions and hypotheses, which must be verified according to the laws of physics that define our universe.
 
