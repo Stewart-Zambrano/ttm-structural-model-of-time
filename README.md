@@ -125,21 +125,9 @@ The counter and accumulator factors can be observed in a vertical-horizontal mat
 
 Vertical representation:
 
-Counter $c \rightarrow R(c,y)$
-Counter $c-1 \rightarrow R(c-1,y)$
-Accumulator c
-Counter $1 \rightarrow R(1,y)$
-Max Counter $c \rightarrow R(c,y)$ with Accumulator c.
-
 ![Fig. 1](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/1.png)
 
 The vertical representation shows the counter in the timeline from the distant past to the present. Here, the Max Counter $n \rightarrow R(c,y)$ has an accumulator $c$, where $1 \le c \le n$, so that we obtain:
-
-Counter $n \rightarrow R(n,y)$
-Counter $n-1 \rightarrow R(n-1,y)$
-Accumulator n
-Counter $1 \rightarrow R(1,y)$
-Max Counter $n \rightarrow R(n,y)$ with Accumulator n.
 
 ![Fig. 2](https://raw.githubusercontent.com/Stewart-Zambrano/ttm-structural-model-of-time/main/2.png)
 
